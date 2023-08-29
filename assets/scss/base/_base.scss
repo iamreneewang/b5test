@@ -1,0 +1,61 @@
+@import "https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0";
+@import "https://fonts.googleapis.com/css?family=Material+Icons%7CMaterial+Icons+Outlined%7CMaterial+Icons+Two+Tone%7CMaterial+Icons+Round%7CMaterial+Icons+Sharp";
+
+.ff-shrikhand {
+    font-family: 'Shrikhand' !important;
+}
+
+.ff-saira {
+    font-family: 'Saira Extra Condensed', sans-serif !important;
+}
+
+
+.fw-350 {
+    font-weight: 350 !important;
+}
+
+.fw-500 {
+    font-weight: 500 !important;
+}
+
+.letter-spacing-s {
+    letter-spacing: 1.6px;
+}
+
+a {
+    cursor: pointer;
+}
+
+a:hover {
+    opacity: 0.8;
+}
+
+
+header{
+
+    z-index: 99;
+}
+
+
+.btn-outline-primary:hover{
+    color: white!important;
+}
+
+.btn-white:hover{
+    color: #eda400!important;
+
+    .material-symbols-outlined{
+        color: #eda400!important;
+    }
+}
+
+.btn-custom-yellow:hover{
+    color: #eda400!important;
+    background-color: white!important;
+    border:1px solid #eda400!important;
+}
+
+
+.btn-outline-custom-yellow:hover{
+    color: white!important;
+}
